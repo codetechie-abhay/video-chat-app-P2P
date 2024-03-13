@@ -1,0 +1,57 @@
+/* styles.css */
+
+/* Body */
+body {
+    background-color: #f8f9fa;
+    color: #343a40;
+}
+
+/* Navbar */
+.navbar {
+    background-color: #343a40;
+    color: #ffffff;
+}
+
+/* Footer */
+footer {
+    background-color: #343a40;
+    color: #ffffff;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Buttons */
+.btn {
+    border-radius: 0.5rem; /* Example border radius */
+    /* Add more button styling here as needed */
+}
+
+/* Input */
+.form-control {
+    border-radius: 0.5rem; /* Example border radius */
+    /* Add more input styling here as needed */
+}
+
+/* Alerts */
+.alert {
+    border-radius: 0.5rem; /* Example border radius */
+    /* Add more alert styling here as needed */
+}
+
+/* Video Containers */
+#local-vid-container,
+#screenshare-container,
+#remote-vid-container,
+#local-mdeia-container {
+    padding: 1rem; /* Example padding */
+    /* Add more container styling here as needed */
+}
+
+/* Video */
+video {
+    width: 100%; /* Example width */
+    /* Add more video styling here as needed */
+}
