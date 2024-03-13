@@ -1,4 +1,4 @@
-# PeerJS Library
+# Video Chat App--PeerJS Library
 
 PeerJS simplifies WebRTC peer-to-peer data, video, and audio calls. 📞👥
 
